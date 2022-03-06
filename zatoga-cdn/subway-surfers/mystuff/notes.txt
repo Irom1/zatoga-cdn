@@ -1,0 +1,6 @@
+https://haass.herokuapp.com/web/_aHR0cHM6Ly9zemhvbmcuNDM5OS5jb20=_/4399swf/upload_swf/ftp35/liuxinyu/20210202/jj2/
+replace that
+/web/_aHR0cHM6Ly9zemhvbmcuNDM5OS5jb20=_/4399swf/upload_swf/ftp35/liuxinyu/20210202/jj2/
+window.alloyLocation
+
+fix font in poki-sdk-core.js
